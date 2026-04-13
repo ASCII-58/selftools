@@ -1,0 +1,16 @@
+{
+    "start_hotkey": "delete",
+    "pause_hotkey": "page down",
+    "capture_hotkey": "end",
+    "select_window_hotkey": "f9",
+    "action_key": "f",
+    "target_window_hwnd": 0,
+    "target_window_title": "",
+    "template_path": "features",
+    "match_threshold": 0.85,
+    "poll_interval_ms": 120,
+    "min_delay": 0.03,
+    "max_delay": 0.1,
+    "smart_mode": true,
+    "loop_count": 0
+}
